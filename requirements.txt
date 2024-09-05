@@ -3,3 +3,5 @@ uvicorn
 pydantic
 pydantic-settings
 matplotlib
+pytest
+httpx
