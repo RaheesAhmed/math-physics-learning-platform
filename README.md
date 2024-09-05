@@ -47,7 +47,6 @@ math_physics_platform/
 1. Clone the repository:
    ```
    git clone https://github.com/raheesahmed/math-physics-learning-platform.git
-   cd backend
    ```
 
 2. Create a virtual environment and activate it:
@@ -141,7 +140,7 @@ The server will start running on `http://localhost:8000`.
      }
      ```
 
-CHECK MORE ABOUT CODE here [CODE DOCS](/backend/code_details.md)
+CHECK MORE ABOUT CODE here [CODE DOCS](code_details.md)
 
 ## Usage Examples
 
@@ -209,7 +208,7 @@ Contributions to this project are welcome! Please fork the repository and submit
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
